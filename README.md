@@ -2,9 +2,9 @@
 本库仅探讨obsidian与zotero联动方案
 
 ## 效果
-![[Clip_2024-08-09_14-21-37.png]]
+![Clip_2024-08-09_14-21-37.png](./Resources/assets/Clip_2024-08-09_14-21-37.png)
 
-![[recording.gif]]
+![recording.gif]](./Resources/assets/recording.gif)
 
 ## 插件
 理论上zotero6也能用
@@ -32,7 +32,7 @@ auth.transliterate.lower+year+shorttitle.ideographs.capitalize.select(1,4)
 
 修改引用之后需要全选所有文献，右键选择`刷新bibtex引用`
 
-![[Clip_2024-08-09_13-14-42.png]]
+![Clip_2024-08-09_13-14-42.png](./Resources/assets/Clip_2024-08-09_13-14-42.png)
 
 `Obsidian Note for Zotero`插件是用于zotlit插件连接Zotero和Obsidian，无须额外设置
 
@@ -51,15 +51,15 @@ auth.transliterate.lower+year+shorttitle.ideographs.capitalize.select(1,4)
 展开右侧边栏，选择笔刷图案的按钮（如果没有则使用`ctrl p`搜索`ZotLit: Open Zotero annotation view inside panel`）
 
 如果需要将标注放在文献笔记中，则打开一篇文献，右侧就会显示该文献的标注
-![[Clip_2024-08-09_14-05-01.png]]
+![Clip_2024-08-09_14-05-01.png](./Resources/assets/Clip_2024-08-09_14-05-01.png)
 
 如果需要在其他笔记中引用标注，则选择`Link with selected literature`
-![[Clip_2024-08-09_14-04-25.png]]
+![Clip_2024-08-09_14-04-25.png](./Resources/assets/Clip_2024-08-09_14-04-25.png)
 
 ### 如何使用`zotlit`快速引用
 在笔记中输入`[@`之后会出现一个文献选择框，这时确定会按照首选格式来生成引用，如果需要使用第二种引用格式则在输入`[@/`然后再来选择文
 
-![[Clip_2024-08-09_14-08-30.png]]
+![Clip_2024-08-09_14-08-30.png](./Resources/assets/Clip_2024-08-09_14-08-30.png)
 
 ### 如何更改模板
 `Resources/plugin/_ZoteroIntegration/literature.md`是`Zotero Integration`插件的导入模板，按需更改。
