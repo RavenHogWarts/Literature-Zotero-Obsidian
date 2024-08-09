@@ -4,7 +4,7 @@
 ## 效果
 ![Clip_2024-08-09_14-21-37.png](./Resources/assets/Clip_2024-08-09_14-21-37.png)
 
-![recording.gif]](./Resources/assets/recording.gif)
+![recording.gif](./Resources/assets/recording.gif)
 
 ## 插件
 理论上zotero6也能用
